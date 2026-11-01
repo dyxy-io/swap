@@ -64,7 +64,7 @@ sequenceDiagram
 
 ## Fees
 
-DYXY charges no fee on swaps. Fees of the underlying liquidity providers are already included in the quote, and network gas is paid to the network.
+Each swap carries a DYXY service fee, shown before confirmation. Fees of the underlying liquidity providers are already included in the quote, and network gas is paid to the network. Service fees are not trading fees and are not part of the referral program.
 
 ## License
 
