@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://docs.dyxy.io/logo/dark.svg" alt="DYXY" height="48">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://docs.dyxy.io/logo/dark.svg">
+    <img src="https://docs.dyxy.io/logo/light.svg" alt="DYXY" height="48">
+  </picture>
 </p>
 
 # DYXY Swap
@@ -61,7 +64,7 @@ sequenceDiagram
 
 ## Fees
 
-Each swap carries a DYXY trading fee on the swapped amount, shown before confirmation. Fees of the underlying liquidity providers are already included in the quote. Network gas is paid to the network. Swaps are not part of the referral program.
+DYXY charges no fee on swaps. Fees of the underlying liquidity providers are already included in the quote, and network gas is paid to the network.
 
 ## License
 
