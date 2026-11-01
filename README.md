@@ -61,7 +61,7 @@ sequenceDiagram
 
 ## Fees
 
-Each swap carries a DYXY trading fee on the swapped amount, shown before confirmation. Fees of the underlying liquidity providers are already included in the quote. Network gas is paid to the network. Users who joined with a referral code pay 10% less.
+Each swap carries a DYXY trading fee on the swapped amount, shown before confirmation. Fees of the underlying liquidity providers are already included in the quote. Network gas is paid to the network. Swaps are not part of the referral program.
 
 ## License
 
